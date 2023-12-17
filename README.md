@@ -1,6 +1,6 @@
 ![Immagine1](https://github.com/CScorza/OSINTSurveillance/assets/98583912/8a4d4fe5-114d-436b-90d1-4e128db5f2f9)
 
-*Strumenti utili per la ricerca di WebCam e Wifi di pubblico accesso per la raccolta di informazioni utili all'attività di Analisi.*
+*Strumenti utili per la ricerca di WebCam, Canali d'Informazione e Wifi di pubblico accesso per la raccolta di informazioni utili all'attività di Analisi.*
 
 
 ![Telecamere](https://github.com/CScorza/OSINTSurveillance/assets/98583912/33a5859d-6d5f-4e1b-ac5f-98ee20e8e31e)
@@ -8,7 +8,7 @@
 
 |**INDICE**|**AIUTI ALL'INVESTIGAZIONE**|
 | :--- | :--- |
-|[**CCTV - WEBCAMS - Social Video Live**](https://github.com/CScorza/OSINTSurveillance/edit/main/README.md#cctv---webcams)|[**OPEN WIFI**]()|
+|[**CCTV - WEBCAMS - Social Video Live**](https://github.com/CScorza/OSINTSurveillance/tree/main#cctv---webcams---social-video-live)|[**OPEN WIFI**](https://github.com/CScorza/OSINTSurveillance/tree/main#open-wifi)|
 
 ```
 Gli analisti OSINT possono utilizzare le telecamere pubbliche per raccogliere informazioni su una varietà di argomenti
