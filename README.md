@@ -22,7 +22,27 @@ sulla posizione delle persone, sui loro movimenti e sulle loro interazioni.
 # CCTV - WEBCAMS - Social Video Live
 ![World Cam](https://user-images.githubusercontent.com/98583912/202259674-34a165d5-98af-44e7-aae0-4a108b15de49.gif)
 
-[**camhacker**](https://www.camhacker.com/)|[**openstreetcam**](https://openstreetcam.org/map/)|[**Airport Web Cams**](https://airportwebcams.net)|
+|[**Shodan**](https://www.shodan.io/)
+
+```
+Shodan è un motore di ricerca che permette di trovare dispositivi connessi a Internet, tra cui webcam, router, NAS e altri dispositivi remoti. 
+È uno strumento potente che può essere utilizzato per scopi legittimi, come la ricerca di vulnerabilità di sicurezza, ma può anche essere utilizzato per scopi illeciti, come la sorveglianza.
+
+Per utilizzare Shodan per trovare telecamere online, è necessario prima registrarsi per un account gratuito. Una volta registrato, è possibile accedere al sito Web di Shodan e iniziare a cercare.
+
+Ecco alcuni esempi di query che è possibile utilizzare per trovare telecamere online:
+
+- "webcam" - Questa query restituirà tutti i dispositivi che hanno la parola "webcam" nel loro nome o nei metadati.
+- "country:IT" - Questa query restituirà tutti i dispositivi che si trovano in Italia.
+- "port:8080" - Questa query restituirà tutti i dispositivi che sono in ascolto sulla porta 8080, che è una porta comunemente utilizzata dalle telecamere IP.
+
+È inoltre possibile utilizzare operatori booleani per restringere i risultati della ricerca. 
+Ad esempio, la seguente query restituirà solo le telecamere IP che si trovano in Italia e sono in ascolto sulla porta 8080:
+
+"webcam" AND "country:IT" AND "port:8080"
+```
+
+[**Camhacker**](https://www.camhacker.com/)|[**openstreetcam**](https://openstreetcam.org/map/)|[**Airport Web Cams**](https://airportwebcams.net)|
 | :--- | :--- | :--- |
 [**The Webcam Network**](http://www.the-webcam-network.com/)|[**Whatsup Cams**](https://www.whatsupcams.com/en/) |[**Goakamai**](http://goakamai.org/home)|
 [**Thingful**](http://www.thingful.net/)|[**Honolulu.gov**](http://www2.honolulu.gov/honolulumyway/?trafficcam)|[**Gobefore**](http://gobefore.me/cams/)|
