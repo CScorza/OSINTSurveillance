@@ -25,8 +25,10 @@ sulla posizione delle persone, sui loro movimenti e sulle loro interazioni.
 [**Shodan**](https://www.shodan.io/)
 
 ```
-Shodan è un motore di ricerca che permette di trovare dispositivi connessi a Internet, tra cui webcam, router, NAS e altri dispositivi remoti.
-È uno strumento potente che può essere utilizzato per scopi legittimi, come la ricerca di vulnerabilità di sicurezza, ma può anche essere utilizzato per scopi illeciti, come la sorveglianza.
+Shodan è un motore di ricerca che permette di trovare dispositivi connessi a Internet, 
+tra cui webcam, router, NAS e altri dispositivi remoti.
+È uno strumento potente che può essere utilizzato per scopi legittimi, 
+come la ricerca di vulnerabilità di sicurezza, ma può anche essere utilizzato per scopi, come la sorveglianza.
 
 Per utilizzare Shodan per trovare telecamere online, 
 è necessario prima registrarsi per un account gratuito. Una volta registrato, 
