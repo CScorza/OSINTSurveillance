@@ -6,9 +6,9 @@
 ![Telecamere](https://github.com/CScorza/OSINTSurveillance/assets/98583912/33a5859d-6d5f-4e1b-ac5f-98ee20e8e31e)
 
 
-|**INDICE**|**AIUTI ALL'INVESTIGAZIONE**|
-| :--- | :--- |
-|[**CCTV - WEBCAMS - Social Video Live**](https://github.com/CScorza/OSINTSurveillance/tree/main#cctv---webcams---social-video-live)|[**OPEN WIFI**](https://github.com/CScorza/OSINTSurveillance/tree/main#open-wifi)|
+|**INDICE**|**AIUTI ALL'INVESTIGAZIONE**||
+| :--- | :--- | :--- |
+|[**CCTV - WEBCAMS - Social Video Live**](https://github.com/CScorza/OSINTSurveillance/tree/main#cctv---webcams---social-video-live)|[**OPEN WIFI**](https://github.com/CScorza/OSINTSurveillance/tree/main#open-wifi)|[**OSINT IP**](https://github.com/CScorza/OSINTSurveillance/tree/osint-ip)|
 
 ```
 Gli analisti OSINT possono utilizzare le telecamere pubbliche per raccogliere informazioni su una varietà di argomenti
@@ -119,6 +119,15 @@ Utilizza una VPN.
 ```
 
 |[**WIGLE**](https://wigle.net/)|[**openwifi**](https://openwifi.su/)|[**Radio Cells**](https://radiocells.org/)|
-|:--- | :--- | :--- |
+| :--- | :--- | :--- |
 |[**Mylnikov**](https://www.mylnikov.org/)|[**3wifi**](https://3wifi.stascorp.com/)|[**Open Wifi Map**](https://openwifimap.net/)
 |[**Wiman**](https://www.wiman.me/)|[**wifimap**](https://www.wifimap.io/)|[**Btwifi**](https://www.btwifi.com/)|[**Open wWifi Spots**](http://openwifispots.com/)|
+
+# OSINT IP
+
+![360_F_633201203_N9gn1Iu5Atll2wDZD46GTQsHyGtyQ2dV](https://github.com/CScorza/OSINTSurveillance/assets/98583912/51c51604-a82c-494c-ada2-7fd977183fba)
+
+[**Whois - domaintools**](https://whois.domaintools.com/)
+| :--- | 
+[**LOPSEG.com.br/OSINT**](https://www.lopseg.com.br/osint)
+[**IPQualityScore**](https://www.ipqualityscore.com/)
