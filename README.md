@@ -61,7 +61,7 @@ Ad esempio, la seguente query restituirà solo le telecamere IP che si trovano i
 [**Kroooz-cams**](https://www.kroooz-cams.com/)|[**Tfljam Cams**](https://www.tfljamcams.net/)|[**archive.tfljamcam**](https://archive.tfljamcams.net/)|
 [**Fisgonia**](http://www.fisgonia.com/)|[**Calculator**](https://calculator.ipvm.com/)|[**camvista**](http://www.camvista.com/)| 
 [**Grmchairresearch**](https://otc.armchairresearch.org/map)|[**Dries Depoorter**](https://driesdepoorter.be/thefollower/)|[**Mass Pirates**](https://cctv.masspirates.org/)|
-[**CSE.Google.**](https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0)|[**Web Cam Taxi**](https://www.webcamtaxi.com/en/)||
+[**CSE.Google.**](https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0)|[**Web Cam Taxi**](https://www.webcamtaxi.com/en/)|[**Watching the World**](https://webcamaze.engineering.zhaw.ch/watchingtheworld/)|
 
 ```
 I canali dove vengono pubblicati video possono essere utilizzati come fonti di informazioni per l'OSINT. 
