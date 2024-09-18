@@ -49,6 +49,13 @@ Ad esempio, la seguente query restituirà solo le telecamere IP che si trovano i
 "webcam" AND "country:IT" AND "port:8080"
 ```
 
+**Surveillance under Surveillance** - *Dove si trovano le telecamere nel mondo***
+
+![Screenshot 2024-09-18 122411](https://github.com/user-attachments/assets/7afa9742-1fd7-4fa9-877e-58dee24f549b)
+| :--- |
+[**Sunders Uber Space**](https://sunders.uber.space/)
+
+
 [**Camhacker**](https://www.camhacker.com/)|[**openstreetcam**](https://openstreetcam.org/map/)|[**Airport Web Cams**](https://airportwebcams.net)|
 | :--- | :--- | :--- |
 [**The Webcam Network**](http://www.the-webcam-network.com/)|[**Whatsup Cams**](https://www.whatsupcams.com/en/) |[**Goakamai**](http://goakamai.org/home)|
